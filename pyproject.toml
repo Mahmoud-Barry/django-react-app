@@ -1,3 +1,18 @@
-[build-system]
-requires = ['setuptools>=40.8.0', 'wheel']
-build-backend = 'setuptools.build_meta:__legacy__'
+[project]
+name = "example_package_YOUR_USERNAME_HERE"
+version = "0.0.1"
+authors = [
+  { name="Mahmoud BARRY", email="mahmoud.barry@bakeli.tech" },
+]
+description = "a react application already configured to be used in a django project as a django application"
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/Mahmoud-Barry/django-react-app"
+"Bug Tracker" = "https://github.com/Mahmoud-Barry/django-react-app/issues"

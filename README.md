@@ -4,7 +4,7 @@ Django React App
 
 a react application already configured to be used in a django project as a django application.
 
-Detailed documentation is in the "docs" directory.
+<!-- Detailed documentation is in the "docs" directory. -->
 
 Quick start
 -----------
@@ -26,5 +26,3 @@ Quick start
 
 4. Start your django development server in another terminal and visit http://127.0.0.1:8000/
    to view your react app application running 
-
-5. To participate in the application development. conctact me from my linkedin https://www.linkedin.com/in/mahmoudbarry/  
