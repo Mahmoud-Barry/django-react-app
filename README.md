@@ -1,28 +1,65 @@
-=====
-Django React App
-=====
+django-react-app
+----------------------
+django-react-app is a react application already configured to be used in a django project as a django application. 
 
-a react application already configured to be used in a django project as a django application.
-
-<!-- Detailed documentation is in the "docs" directory. -->
 
 Quick start
 -----------
 
-1. Add "django_react_app" to your INSTALLED_APPS setting like this::
+### Install 
 
+```
+pip install django-react-app
+
+```
+
+
+
+Add "django_react_app" to your INSTALLED_APPS setting like this::
+
+```
     INSTALLED_APPS = [
         ...
         'django_react_app',
     ]
 
-2. Include the django_react_app URLconf in your project urls.py like this::
+```
 
-    path('', include('django_react_app.urls')),
+---
 
-3. Move to the django_react_app directory and run ``npm install``  to install dependences.
+# Configuration
 
-4. And Run ``npm run dev``  to run the react app .
+### To have django-react-app on your root project 
 
-4. Start your django development server in another terminal and visit http://127.0.0.1:8000/
-   to view your react app application running 
+```
+You will find the django_react_app inside your <virtualenv_name>/lib/<python_ver>/site-packages/ folder move the django_react_app folder to your root project 
+```
+
+### Install React dependencies
+
+```
+Open a terminal and go to the django_react_app folder and type "cd django_react_app" and run : 
+```
+
+```
+npm install
+
+```
+This command will install React dependencies, after that run :
+
+```
+
+```
+npm run dev
+
+```
+To run the React app.
+
+```
+
+#### Run your django app
+```
+Start your django development server in another terminal and visit http://127.0.0.1:8000/ to view your react app application running 
+```
+
+

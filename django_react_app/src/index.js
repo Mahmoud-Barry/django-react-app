@@ -8,7 +8,3 @@ root.render(
     <App />
   </React.StrictMode>
 );
-
-
-// const appDiv = document.getElementById("root");
-// render(<App />, appDiv);

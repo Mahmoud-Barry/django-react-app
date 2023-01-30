@@ -1,5 +1,5 @@
 [project]
-name = "example_package_YOUR_USERNAME_HERE"
+name = "django_react_app"
 version = "0.0.1"
 authors = [
   { name="Mahmoud BARRY", email="mahmoud.barry@bakeli.tech" },
