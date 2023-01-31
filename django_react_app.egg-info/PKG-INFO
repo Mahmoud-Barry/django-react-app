@@ -1,3 +1,20 @@
+Metadata-Version: 2.1
+Name: django-react-app
+Version: 0.0.5
+Summary: a react application already configured to be used in a django project as a django application
+Home-page: https://github.com/Mahmoud-Barry/django-react-app
+Author: Mahmoud Barry
+Author-email: Mahmoud BARRY <mahmoud.barry@bakeli.tech>
+License: BSD-3-Clause
+Project-URL: Homepage, https://github.com/Mahmoud-Barry/django-react-app
+Project-URL: Bug Tracker, https://github.com/Mahmoud-Barry/django-react-app/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
 django-react-app
 ----------------------
 django-react-app is a react application already configured to be used in a django project as a django application. 
