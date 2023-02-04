@@ -1,1 +1,6 @@
 .pypirc
+/dist
+/djang_react_app.eggg-info
+MANIFEST.info
+setup.cfg
+setup.py
