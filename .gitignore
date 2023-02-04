@@ -1,6 +1,6 @@
 .pypirc
 /dist
-/djang_react_app.eggg-info
+/djang_react_app.egg-info
 MANIFEST.info
 setup.cfg
 setup.py
